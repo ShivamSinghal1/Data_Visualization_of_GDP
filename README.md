@@ -1,1 +1,3 @@
-# Data_Visualization_of_GDP
+# Data Visualization of GDP Growth, Current Price and GDP per capita of different countries.
+  DataSet Copyrigtht - IMF <https://www.imf.org/>
+  
